@@ -1,0 +1,19 @@
+{
+    "name": "ZeP",
+    "version": "1.0",
+    "description": "null",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
+        "chalk": "^4.1.2",
+        "fs": "latest",
+        "pino": "^9.5.0",
+        "readline-sync": "^1.4.10",
+        "axios": "latest",
+        "crypto": "latest",
+        "node-telegram-bot-api": "^0.64.0"
+    }
+}
