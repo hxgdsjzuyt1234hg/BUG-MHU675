@@ -5,6 +5,6 @@
 */
 
 module.exports = {
-    TokenS: "TOKEN",
-    admins: ["YOU_ID"]
+    TokenS: "7904775587:AAEC6GujYwCxcUCUtTiEXVwUwdUsCeXY5qk",
+    admins: ["7430156268"]
 };
